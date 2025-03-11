@@ -1,60 +1,16 @@
-# The Hacker-Blog theme
+#  Offensive Security Mindset Blog.  By @Top0n3
 
-*Hacker-Blog is a minimalistic, responsive jekyll theme built for hackers. It is based on the [hacker theme](https://github.com/pages-themes/hacker) for project pages.*
+## Hello H4ck3rs. 
+My pseudo is Top0n3. 
+- Pentester
+- Bug Hunter
+- Futural Red Teamer
+- CTF Player
 
-Demo: [https://ashishchaudhary.in/hacker-blog](https://ashishchaudhary.in/hacker-blog)
-
-### Included
-
-1. Pagination
-2. SEO tags
-3. Archive Page
-4. About Page
-5. RSS (`https://base-url/atom`)
-6. Sitemap (`https://base-url/sitemap`)
-7. Google Analytics (optional)
-
-## Usage
-
-1. Fork and Clone this repository
-2. Customize your blog
-3. Add a new post in `_posts/` directory with proper name format (as shown in placeholder posts)
-4. Commit and push to master on a repository named `<githubusername.github.io>`.
-5. Visit `<githubusername>.github.io`
-
-## Local Build
-
-If you want to see the changes before pushing the blog to Github, do a local build.
-
-1. [`gem install jekyll`](https://jekyllrb.com/docs/installation/#install-with-rubygems)
-2. `gem install jekyll-seo-tag`
-3. `gem install jekyll-paginate`
-4. `gem install jekyll-sitemap`
-5. (`cd` to the blog directory, then:) `jekyll serve --watch --port 8000`
-6. Go to `http://0.0.0.0:8000/` in your web browser.
-
-*Note: In case you have set a `baseurl` different than `/` in `_config.yml`, go to `http://0.0.0.0:8000/BASEURL/` instead.*
-
-### Local build using docker
-
-```bash
-docker run --rm -p 8000:8000 \
-  --volume="LOCATION_OF_YOUR_JEKYLL_BLOG:/srv/jekyll" \
-  -it tocttou/jekyll:3.5 \
-  jekyll serve --watch --port 8000
-```
-
-Replace `LOCATION_OF_YOUR_JEKYLL_BLOG` with the full path of your blog repository. Visit `http://localhost:8000/` to access the blog.
-
-*Note: In case you have set a `baseurl` different than `/` in `_config.yml`, go to `http://0.0.0.0:8000/BASEURL/` instead.*
-
-## Customizing
-
-### Configuration variables
-
-Edit the `_config.yml` file and set the following variables:
-
-```yml
+# Purpose of this blog.
+I build this blog to help everyone who wanna Learn Ethical hacking from zero to Red Teamer
+## Local build using docker
+``yml
 title: [The title of your blog]
 description: [A short description of your blog's purpose]
 author:
@@ -109,6 +65,4 @@ Custom CSS: Make `_sass/custom.scss` and use it. Then add `@import "custom";` to
 
 Edit `404.md`
 
-## License
-
-CC0 1.0 Universal
+## Licensevkkkkkkkkkkkkkk
