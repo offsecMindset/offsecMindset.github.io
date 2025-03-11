@@ -1,5 +1,6 @@
 ---
 title: Sample Page
+categories: PENTEST
 published: true
 ---
 
