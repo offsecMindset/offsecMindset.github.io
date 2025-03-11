@@ -1,6 +1,7 @@
 ---
-title: Another Sample Page
-categories:BugBounty 
+title:  Pentest post 
+categories:  PENTEST
+image: null
 published: true
 ---
 

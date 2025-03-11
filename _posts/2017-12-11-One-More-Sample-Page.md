@@ -1,6 +1,6 @@
 ---
 title: One More Sample Page
-categories: PENTEST
+categories: BugBounty 
 published: true
 ---
 
