@@ -13,4 +13,4 @@ My pseudo is Top0n3.
 I build this blog to help everyone who wanna Learn Ethical hacking from zero to Red Teamer
 ### About Page
 
-## Licensev
+## License
