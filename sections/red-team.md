@@ -1,21 +1,14 @@
 ---
-layout: page
-title: About
+layout: default
 ---
-#  Offensive Security Mindset Blog.  By @Top0n3
 
-## Hello H4ck3rs. 
-My pseudo is Top0n3. 
-- Pentester
-- Bug Hunter
-- Futural Red Teamer
-- CTF Player
-
-## Hack the planet
-
-# Purpose of this blog.
-I build this blog to help everyone who wanna Learn Ethical hacking from zero to Red Teamer
-### About Page
-
-## License
-
+<ul>
+    {% assign pentest_posts = site.posts | where:"categories", "REDTEAM" %}
+    {% for post in pentest_posts %}
+      <li>
+          <h2><a href="{{ post.url | prepend: site.baseurl | replace: '//', '/' }}">{{ post.title : post.categories }}</a></h2>
+          <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date_to_string }}</time>
+          <p>{{ post.content | strip_html | truncatewords:50 }}</p>
+      </li>
+    {% endfor %}
+</ul>

@@ -1,0 +1,6 @@
+# Dirsearch started Wed Mar 12 10:49:06 2025 as: /usr/bin/dirsearch -u https://airflow-streamlit.kkiapay.me/
+
+200     2B   https://airflow-streamlit.kkiapay.me/healthz
+404    69B   https://airflow-streamlit.kkiapay.me/media/
+404    69B   https://airflow-streamlit.kkiapay.me/media/export-criteo.xml
+301     0B   https://airflow-streamlit.kkiapay.me/static    -> REDIRECTS TO: /static/

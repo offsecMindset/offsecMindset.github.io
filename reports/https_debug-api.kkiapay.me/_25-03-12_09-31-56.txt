@@ -1,0 +1,3 @@
+# Dirsearch started Wed Mar 12 09:34:38 2025 as: /usr/bin/dirsearch -u https://debug-api.kkiapay.me
+
+502   552B   https://debug-api.kkiapay.me/RootCA.crt
