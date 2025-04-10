@@ -1,2 +1,2 @@
-jekyll serve --watch --port 8000
+jekyll serve --watch --port $1 
 

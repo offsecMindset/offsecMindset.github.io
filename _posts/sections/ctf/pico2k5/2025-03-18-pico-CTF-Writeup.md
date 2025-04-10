@@ -1,9 +1,9 @@
 ---
-title: picoCTF 2k25 Writeup
-categories: CTF
-published: True
+title: PicoCTF 2025  writeup 
+categories:  PENTEST
+image: null
+published: true
 ---
-
 
 Pico CTF 2025 Write up . By Bug Reapers Team
 
@@ -24,6 +24,5 @@ Here is the write up of all Challenges that we solve durant the competition
 [Forensic](forensic)
 
 [Crypo](Crypto)
-
 
 
