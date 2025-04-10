@@ -1,6 +1,6 @@
 ---
 title: PicoCTF 2025  writeup 
-categories:  PENTEST
+categories: CTF 
 image: null
 published: true
 ---
