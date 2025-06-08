@@ -1,7 +1,7 @@
 title: offsecMindset 
 description: Offensive Security Blog. Made to help everyone who wanna learn Ethical hacking from Zero to Red Teamer
 author:
-  name: "Top0n3"
+  name: "Top0n3 HackThePlanet"
   email: "offsecmindset@gmail.com"
   url: "https://offsecMindset.github.io"
 
@@ -28,5 +28,5 @@ plugins:
   - jekyll-sitemap
 
 # Custom variables
-owner : "Top0n3"
+owner : "Top0n3 HackThePlanet"
 year : "2025"
