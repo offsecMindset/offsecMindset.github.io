@@ -5,9 +5,10 @@ image: null
 published: true
 ---
 
+![angr](/assets/images/angr.jpeg)
+<br>
 Angr the most powerful tool for symbolic execution and binary analyse
 
-![](./images/angr.png)
 
 Created by ASU University researchers, Angr is a powerful tool for symbolic execution and binary analys.
 It is used to automate  reverse engineering challenge like crackmes solving  by making symbolic execution and also to found bug like buffer overflow through static and dynamic binary analyse (also symbolic execution)
