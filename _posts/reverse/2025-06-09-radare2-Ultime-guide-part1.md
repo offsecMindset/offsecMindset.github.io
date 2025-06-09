@@ -260,8 +260,8 @@ Considere rabin2 as binary informations recon tool. You must use it a the biggen
 - rasm2 (radare2 framework assembler and disassembler tool)<br>
 `rasm2` is a util for disassemble and assemble instruction.<br>
 It can be very useful for:<br>
-. consolecode scrafting<br>
-. consolecode disassembled<br>
+.shellecode scrafting<br>
+. shelllecode disassembled<br>
 . assembled langage training<br>
 It support a lot of architectures and many options<br>
 
