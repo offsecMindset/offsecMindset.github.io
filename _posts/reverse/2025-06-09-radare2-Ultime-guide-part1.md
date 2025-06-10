@@ -495,7 +495,7 @@ The visual mode help you swhitching between other mode like hexeditor mode, disa
 
 <br>
 
-- Graphi mode.  <br>
+- Graphi mode or visual panel <br>
 Even if radare2 is commande line tool, it offer graphic mode Which still is a  console interface.
 A graphic mode divide your terminal into many parts: <br>
 . Disassembled code part <br>
@@ -515,6 +515,17 @@ On graphic mode, You can use your mouse. to do thing like: <br>
 . Acess to setting
 . Change setting
 You can also customise this graphic interface
+. `tab` to swhitch betwen panel <br>
+. `m` to access toolbar options <br>
+. . `x` to close the actual selected panel <br>
+. `|`  vertical selected layout <br>
+. `-`  horizontal selected layout <br>
+. `w` modify the width <br>
+. `?` get help( useful) <br>
+. `enter` to zoom the selected layout <br>
+
+. YOU can also customize layout and save it for the next. <br>
+to do that: `m`, swhitch to `setting`, `layou`,`save layout` or `load layout`
 
 
 
