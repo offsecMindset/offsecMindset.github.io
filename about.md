@@ -3,13 +3,13 @@ layout: page
 title: About
 ---
 #  Offensive Security Mindset Blog.  By @Top0n3
-
 ## Hello H4ck3rs. 
 My pseudo is Top0n3. 
-- Pentester
+- Offensive Security Engineer 
 - Bug Hunter
 - Futural Red Teamer
 - CTF Player
+- PNPT, HTB CWES Certified
 
 ## Hack the planet
 
@@ -17,5 +17,5 @@ My pseudo is Top0n3.
 I build this blog to help everyone who wanna Learn Ethical hacking from zero to Red Teamer
 ### About Page
 
-## License
+## Contact Me 
 
