@@ -1,0 +1,2 @@
+git remote set-url origin https://TOKEN@github.com/offsecMindset/offsecMindset.github.io.git
+git push #done
