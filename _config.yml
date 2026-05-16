@@ -7,6 +7,8 @@ author:
 
 baseurl: /
 
+future: true
+
 source: .
 destination: ./_site
 permalink: /:title
@@ -29,4 +31,4 @@ plugins:
 
 # Custom variables
 owner : "Top0n3 HackThePlanet"
-year : "2025"
+year : "2026"
